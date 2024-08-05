@@ -1,0 +1,1 @@
+export const URL_APP = 'https://calcount.develotion.com';
